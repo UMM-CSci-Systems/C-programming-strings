@@ -16,13 +16,13 @@ The first is an introduction to a tool for finding memory leaks, and
 the second is a simple exercise on 1-D arrays of characters
 
 For more information (including information on how to use ```valgrind```), see
-the [Lab3 pre-lab](https://github.com/UMM-CSci-Systems/C-programming-pre-lab).
+the [C programming pre-lab](https://github.com/UMM-CSci-Systems/C-programming-pre-lab).
 
 ## Testing and the Google Test framework
 
 Each of these exercises comes with a set of tests implemented using [the
 Google Test framework for C](https://github.com/google/googletest), aka 
-`test`. You won't have to learn anything about `gtest`, but you
+`gtest`. You won't have to learn anything about `gtest`, but you
 will need to be able to compile and run the tests that we provide.
 
 We think the tests are pretty reasonable, but make *no* promises that
