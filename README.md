@@ -1,3 +1,5 @@
+ARCHIVED! This has been replaced with [C-strings-and-memory-management](https://github.com/UMM-CSci-Systems/C-strings-and-memory).
+
 * [Background](#background)
  * [Testing and the Google Test framework](#testing-and-the-google-test-framework)
  * [Fixing memory problems](#fixing-memory-problems)
